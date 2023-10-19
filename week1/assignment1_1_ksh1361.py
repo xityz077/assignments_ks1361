@@ -1,6 +1,6 @@
 print('''Kshitiz's address is:''')
-print('9504 Hetta Drive')
-print('Frisco, TX 75035')
+print('1234 Abc Drive')
+print('Frisco, TX 75034')
 
 print("DTSC 5501 is one of Priyan Kumar's classes.")
 
